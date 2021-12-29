@@ -1,0 +1,97 @@
+header {
+    margin: 30px;
+}
+.logo {
+    margin-right: 49px;
+}
+.navUl {
+    vertical-align: super;
+}
+.navLi {
+    
+    margin-right: 30px;
+    font-size: 22px;
+    font-weight: bold;
+}
+.active {
+    color: #EE4036;
+}
+.inline-block {
+    display: inline-block;
+}
+.container {
+    width: 1170px;
+    margin: 46px auto 60px auto;
+}
+.bannerImg {
+    width: 100%;
+    height: 460px;
+    object-fit: cover;
+}
+.inline-block {
+    display: inline-block;
+}
+.container {
+    width: 1170px;
+    margin: 47px auto 60px auto;
+}
+.bannerImg {
+    width: 100%;
+    height: 460px;
+    object-fit: cover;
+}
+.infoDivsTitle {
+    margin-top: 115px;
+    margin-bottom: 30px;
+}
+.infoWrap {
+    height: 225px;
+}
+.info {
+    background-color: #F2F2F2;
+    width: 570px;
+    padding: 10px 15px 25px 20px;
+    height: 100%;
+    vertical-align: middle;
+}
+.info:nth-child(1) {
+    margin-right: 25px;
+}
+.infoPreview {
+    padding: 12px 0 0;
+}
+.infoPreview img {
+    width: 100px;
+    height: 130px;
+    object-fit: contain;
+    margin-left: 20px;
+    margin-right: 60px;
+}
+.infoPreview p {
+    width: 355px;
+    vertical-align: top;
+    font-size: 20px;
+    line-height: 25px;
+}
+.icons {
+    margin-top: 68px;
+}
+.icon1 {
+    display: inline-block;
+    padding-right: 35px;
+    border-right: 1px solid #3D58A6;
+}
+.icon1 svg {
+    width: 25px;
+    height: 30px;
+    object-fit: contain;
+}
+.icon2 {
+    display: inline-block;
+    padding-left: 35px;
+}
+.icon2 svg {
+    width: 25px;
+    height: 30px;
+    object-fit: contain;
+}
